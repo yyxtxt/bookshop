@@ -142,11 +142,11 @@ const router = new VueRouter({
 //设置路由守卫  全局后置 当程序进度到目标组件之后，执行的一系列操作
 // to参数  目标路由
 
-
+// 这里是他的注释
 // router.afterEach( (to)=>{
 // 	document.title = to.meta.title;
 // })
 
-
+// 这里是另外的注释
 
 export default router
